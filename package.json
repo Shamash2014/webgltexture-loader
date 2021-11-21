@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "webgltexture-loader-libs",
+  "name": "@led/webgltexture-loader-libs",
   "version": "0.0.0",
   "workspaces": [
     "packages/*"
